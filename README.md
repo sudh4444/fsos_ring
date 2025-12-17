@@ -94,7 +94,7 @@ Output: Binary classification logits
 ### Download Dataset
 
 The SisFall dataset is not included in this repository. Download it from:
-- **Official source**: [SisFall Dataset](https://archive.ics.uci.edu/ml/datasets/sisfall)
+- [SisFall Dataset](https://www.kaggle.com/datasets/nvnikhil0001/sis-fall-original-dataset?resource=download)
 
 After downloading, extract it to `datasets/SisFall_dataset/` or modify `SISFALL_ROOT` in `model.py`.
 
